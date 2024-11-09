@@ -22,7 +22,7 @@ const projects = [
     name: "Temple Project",
     technologies: "Html css",
     image: employeeMSImage,
-    github: "https://github.com/YouafKhan1",
+    github: "https://karthikach45.github.io/new/",
   },
 ];
 
